@@ -1,4 +1,7 @@
-### Hi there 👋
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Dwayneten&show_icons=true&theme=tokyonight&hide=contribs" width="450" height="150" />&nbsp;
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dwayneten&layout=compact&theme=tokyonight&hide=html,css" width="375" />
+</p>
 
 <!--
 **Dwayneten/Dwayneten** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
